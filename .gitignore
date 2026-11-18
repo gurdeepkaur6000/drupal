@@ -1,0 +1,6 @@
+/vendor/
+/web/sites/default/files/
+/web/sites/*/files/
+/.env
+.DS_Store
+Thumbs.db
